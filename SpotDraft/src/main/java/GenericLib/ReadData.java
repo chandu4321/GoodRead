@@ -1,4 +1,4 @@
-package goodRead;
+package GenericLib;
 
 
 import java.io.FileInputStream;

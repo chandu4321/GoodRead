@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-import goodRead.BaseClass;
+import GenericLib.BaseClass;
 import pom.Home_Page;
 /***
  * 
