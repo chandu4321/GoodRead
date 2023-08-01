@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser window maximized]]>
+    </line>
+    <line>
+      <![CDATA[user Nagivated to URL Successfully]]>
+    </line>
+    <line>
+      <![CDATA[User Nagivated Sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[User login Sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[User clicked on Want To Read]]>
+    </line>
+    <line>
+      <![CDATA[User Removed Books Sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[User Logout Sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed Sucessfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22840" started-at="2023-08-01T16:17:02 IST" finished-at="2023-08-01T16:17:25 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22840" started-at="2023-08-01T16:17:02 IST" finished-at="2023-08-01T16:17:25 IST">
+      <class name="TestScript.TestScript_01">
+        <test-method status="PASS" signature="browserSetUp()[pri:0, instance:TestScript.TestScript_01@467aecef]" name="browserSetUp" is-config="true" duration-ms="5588" started-at="2023-08-01T16:17:02 IST" finished-at="2023-08-01T16:17:08 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window maximized]]>
+            </line>
+            <line>
+              <![CDATA[user Nagivated to URL Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TestScript.TestScript_01@467aecef]" name="login" is-config="true" duration-ms="3376" started-at="2023-08-01T16:17:08 IST" finished-at="2023-08-01T16:17:11 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[User Nagivated Sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[User login Sucessfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Script()[pri:0, instance:TestScript.TestScript_01@467aecef]" name="Script" duration-ms="7596" started-at="2023-08-01T16:17:11 IST" finished-at="2023-08-01T16:17:19 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[User clicked on Want To Read]]>
+            </line>
+            <line>
+              <![CDATA[User Removed Books Sucessfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Script -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:TestScript.TestScript_01@467aecef]" name="logout" is-config="true" duration-ms="5183" started-at="2023-08-01T16:17:19 IST" finished-at="2023-08-01T16:17:24 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[User Logout Sucessfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestScript.TestScript_01@467aecef]" name="closeBrowser" is-config="true" duration-ms="1018" started-at="2023-08-01T16:17:24 IST" finished-at="2023-08-01T16:17:25 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed Sucessfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScript.TestScript_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
